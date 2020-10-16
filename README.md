@@ -4,7 +4,7 @@ This is an example of a one shift right Caesar cypher written in python.  It als
 
 STEPS:
 1. Clone repository to local repository or copy all three files to your computer
-2. Run ceasar_shift.py to generate the cypher.txt file
+2. Run caesar_shift.py to generate the cypher.txt file
 3. Run frequency_analysis.py to view statistical analysis of the plain.txt, and cypher.txt files
 
 BONUS:
